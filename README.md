@@ -1,1 +1,0 @@
-# Oklid-Hesaplama
